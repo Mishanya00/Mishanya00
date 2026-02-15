@@ -1,5 +1,7 @@
 # Hi! I'm Michael Budnikov and I'm software engineer.
 
+https://githubcard.com/Mishanya00.svg?d=pvfVPQdn
+
 ## 🛠️ Languages and Tools
 ![C++](https://img.shields.io/badge/C++-white?style=for-the-badge&logo=cplusplus&logoColor=00599C&color=black)
 ![Python](https://img.shields.io/badge/Python-white?style=for-the-badge&logo=python&logoColor=3776AB&color=black)
